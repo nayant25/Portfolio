@@ -1,31 +1,55 @@
-## Portfolio-Website
-Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
+# Portfolio | Nayan Tayade
 
-<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+## Table of Contents
+- [About](#about)
+- [Skills](#skills)
+- [Education](#education)
+- [Work](#work)
+- [Experience](#experience)
+- [Contact](#contact)
 
+## About
+### Hi There, I'm Nayan Tayade
 
-## 📌 Tech Stack
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+I am a Full-Stack developer based in Pune, India. I am an Electronic And Telecommunication undergraduate from SPPU. I am very passionate about improving my coding skills. My coding journey encompasses a strong command of Java, C, and C++, and I am deeply passionate about the art of programming. Working for myself to improve my skills. I am always excited to embark on Full-Stack projects that push my boundaries.
 
-### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
+- **Email:** nayantayade2017@gmail.com
+- **Location:** Pune, India - 411035
 
-## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
-![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+[View Resume](https://drive.google.com/file/d/1ktc94DONN7dmQds_IGHTNUFTw8vOn50B/view?usp=drivesdk)
 
+## Skills
+[Skills Section HTML Content Here]
 
-<h2>📬 Contact</h2>
+## Education
+### Bachelor of Engineering in Electronics and Electronics
+- **Institution:** D Y Patil College Of Engineering Akurdi | SPPU
+- **Year:** 2019-2023 (Completed)
 
+### HSC General Science
+- **Institution:** VidyaBharti Mahavidyalaya
+- **Year:** 2018-2029 (Completed)
 
-If you want to contact me, you can reach me through below handles.
+## Work
+[Work Section HTML Content Here]
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jigar-sable/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+## Experience
+### Self Employed
+- **Position:** Full Stack Developer
+- **Duration:** Oct 2021 - Present
 
-© 2022 Jigar Sable
+[View All Experience](/experience)
 
+## Contact
+### Get in Touch
+Feel free to reach out to me via email or phone. Let's connect!
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+- **Email:** nayantayade2017@gmail.com
+- **Phone:** +91 7875289918
+- **Location:** Pune, India-411035
+
+[LinkedIn](http://linkedin.com/in/nayan-tayade-185233224) | [GitHub](https://github.com/nayant25) | [Twitter](https://twitter.com/NayanTayade25) | [Telegram](https://t.me/nayantayade25) | [Instagram](https://www.instagram.com/nayan.tayade_/)
+
+---
+
+Designed with ❤️ by [Nayan Tayade](http://linkedin.com/in/nayan-tayade-185233224)
