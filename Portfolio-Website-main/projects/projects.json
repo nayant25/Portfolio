@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Player Management",
+    "desc": "It appears to be part of a larger project focused on advanced player data management in a sports context.",
+    "image":"/assets/projeccct/project_image.png",
+    "category": "C++",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Smart Industrial Jacket",
+    "desc": "Detecting the Health Parameters for the Industrial Workers",
+    "image": "/assets/images/projects/smart-safety-jacket-7-2048.png",
+    "category": "IoT (Internet of Things)",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "Alcohol Sensing Alert",
+    "desc": "Avoiding the Accidents after drinking by locking the Engine",
+    "image": "resumegen",
+    "category": "IoT (Internet of Things)",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Portfolio Website is a sleek and interactive platform presenting the creator's skills, experiences, and projects in a user-friendly format.",
+    "image": "reactprojects",
+    "category": "web designing",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
+  {
+    "name": "Image-to-Pencil Sketch",
+    "desc": "The Image-to-Pencil Sketch project transforms digital images into realistic pencil sketches using advanced image processing techniques, providing a creative and artistic tool for digital content manipulation.",
+    "image": "flipkartphp",
+    "category": "Image Processing",
+    "links": {
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+    }
+  },
+  {
+    "name": "Bill-Generator",
+    "desc": "The Bill Generator automates invoice creation, providing a seamless and efficient solution for businesses to streamline their financial processes.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  }
+]
